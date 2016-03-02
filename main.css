@@ -1,0 +1,170 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+header {
+  background: #118BC0;
+  height: 4.68em;
+  width: 100%;
+}
+.toprightlogo {
+  float: left;
+  display: inline-block;
+  background-color: white;
+  margin: 1em 1em;
+  width: 1em;
+  padding: 1em;
+}
+.logo {
+  float:left;
+  display: inline-block;
+  background-color: white;
+  margin: 1em 1em;
+  width: 7.3em;
+  padding: 1em 0 1em 0;
+  text-align: center;
+}
+.login {
+  float: right;
+  display: inline-block;
+  background-color: #0070A4;
+  height: 3.2em;
+  width: 7.75em;
+  color: white;
+  text-align: center;
+  padding-top: 1.5em;
+  padding-right: 1em;
+}
+h1 {
+  margin: 0;
+  font-size: 2em;
+  padding-top: 60px;
+  text-align: center;
+  color: white;
+}
+h2 {
+  font-size: 1em;
+  text-align: center;
+  color: white;
+  margin-bottom: 3em;
+}
+.header-menu {
+  list-style-type: none;
+  margin: 0;
+}
+div {
+  background-color: #344051;
+  padding-bottom:
+}
+li {
+  list-style-type: none;
+}
+.launchbox {
+  border: 1em solid #212934;
+  background-color: #1E8CBE;
+  width: 22em;
+  height: 2em;
+  margin: 0 auto;
+}
+.arrow {
+  height: 2em;
+  width: 4.68em;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 20.125em;
+  margin-bottom: 10em;
+}
+.bottom-buttons {
+  margin: 0 auto;
+  background-color: white;
+  width: 29em;
+  height: 6.56em;
+  margin-bottom: 3em;
+}
+.bottom-features {
+  padding-bottom: 6.44em;
+}
+.first-square {
+  display: block;
+  float: left;
+  background: #616E7E;
+  margin: 1em 0;
+  width: 7em;
+  height: 5.58em;
+}
+.rectangle-box {
+  display: block;
+  float: right;
+  background-color: #616E7E;
+  margin: 0;
+  width: 20em;
+  height: 5em;
+}
+.top-grey-box {
+  background-color: #E8F0F5;
+  height: 18em;
+  margin-top: -17px;
+}
+.six-subdivs {
+  background-color: #D1D3D7;
+  padding: 1em 0 1em 0;
+}
+.reason-subdivs {
+  height: 17em;
+  background-color: white;
+  margin: 0 1em 30px 1em;
+  padding-top: 1em;
+}
+.square {
+  background-color: #C7D2D8;
+  margin: 0 auto;
+  height: 3.75em;
+  width: 3.75em;
+  display: block;
+}
+.key-point {
+  background-color: #C7D2D8;
+  margin: 1em auto;
+  display: block;
+  height: 1.5em;
+  width: 25em;
+}
+.descript{
+  background-color: #C7D2D8;
+  margin: 0 auto;
+  display: block;
+  width: 29em;
+  height:4.6em;
+}
+.bottom-grey-box {
+  background-color: #E8F0F5;
+  height: 13em;
+  margin-top: 0;
+  padding: 145px 0 0 0;
+  text-align: center;
+}
+.createbox {
+  background-color: #1E8CBE;
+  width: 22em;
+  height: 4em;
+  margin: 4em auto -3em auto;
+}
+.home {
+  background-color: black;
+  height: 11em;
+  color: white;
+  text-align: center;
+  padding-top: 1em;
+}
+.line-1 {
+  background-color: black;
+}
+.line-2 {
+  background-color: black;
+}
+.auto-box {
+  background-color: #FFFFFF;
+  height: 2.3em;
+  width: 12.5em;
+  margin: 2em auto;
+}
